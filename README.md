@@ -19,3 +19,8 @@
 * O CPF deve ser válido.
 * As senhas devem ser iguais e conter de 6-12 caracteres.
 
+## Tecnologias:
+* JavaScript
+* HTML
+* CSS
+
